@@ -1,0 +1,8 @@
+main {
+  margin: 0 auto;
+  width: 906px;
+  padding-top: 60px;
+}
+canvas {
+  border: 3px dashed black;
+}
